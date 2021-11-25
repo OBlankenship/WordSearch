@@ -1,0 +1,11 @@
+﻿  WordSearch.cpp
+C:\Users\Oliver\source\repos\WordSearch\WordSearch\WordSearch.cpp(200,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oliver\source\repos\WordSearch\WordSearch\WordSearch.cpp(207,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oliver\source\repos\WordSearch\WordSearch\WordSearch.cpp(222,21): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Oliver\source\repos\WordSearch\WordSearch\WordSearch.cpp(277,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oliver\source\repos\WordSearch\WordSearch\WordSearch.cpp(296,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oliver\source\repos\WordSearch\WordSearch\WordSearch.cpp(317,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oliver\source\repos\WordSearch\WordSearch\WordSearch.cpp(322,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oliver\source\repos\WordSearch\WordSearch\WordSearch.cpp(365,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Oliver\source\repos\WordSearch\WordSearch\WordSearch.cpp(393,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  WordSearch.vcxproj -> C:\Users\Oliver\source\repos\WordSearch\Debug\WordSearch.exe
